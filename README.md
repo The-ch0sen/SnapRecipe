@@ -5,9 +5,6 @@ This is a NextJS starter in Firebase Studio.
 To get started, take a look at src/app/page.tsx.
 
 
-當然可以，以下是這個技術堆疊說明的繁體中文版本：
-
----
 
 ### 🔧 **技術堆疊總覽**
 
