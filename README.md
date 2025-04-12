@@ -1,10 +1,4 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
-
-
+### Firebase Studio
 
 ### 🔧 **技術堆疊總覽**
 
@@ -59,11 +53,6 @@ To get started, take a look at src/app/page.tsx.
 - **next dev / next build**：分別用於啟動開發伺服器與建構正式環境版本。
 - **typescript (tsc)**：將 TypeScript 編譯為 JavaScript 的編譯器。
 
----
 
-### 📌 總結  
-> 本專案極有可能是一個 **食譜產生或與料理相關的網頁應用程式**，具備 AI 功能（如依據食材自動建議料理），搭配表單驗證、Firebase 後端服務與現代化 UI 工具，採用模組化、可擴充且型別安全的開發方式。
 
----
 
-如果你需要轉成圖像化架構圖或用於 README 的 Markdown 格式，我也可以幫你製作！
