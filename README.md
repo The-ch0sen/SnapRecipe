@@ -53,8 +53,6 @@
 - **next dev / next build**：分別用於啟動開發伺服器與建構正式環境版本。
 - **typescript (tsc)**：將 TypeScript 編譯為 JavaScript 的編譯器。
 
-https://9000-idx-studio-1744391154571.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev
-
 
 
 
