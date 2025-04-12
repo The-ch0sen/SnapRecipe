@@ -2,15 +2,14 @@ import type { Metadata } from 'next';
 import { Geist, Geist_Mono } from 'next/font/google';
 import './globals.css';
 
-// ✅ 改掉錯誤的 subset，只使用支援的 'latin'
 const geistSans = Geist({
   variable: '--font-geist-sans',
-  subsets: ['latin'],
+  subsets: ['latin'], // ✅ 只能用 'latin' 或 'latin-ext'
 });
 
 const geistMono = Geist_Mono({
   variable: '--font-geist-mono',
-  subsets: ['latin'],
+  subsets: ['latin'], // ✅
 });
 
 export const metadata: Metadata = {
